@@ -1,0 +1,66 @@
+labels:
+  - name: "@MIT"
+    tag: MIT
+  - name: "@University of Pisa"
+    tag: UNIPI
+
+
+topics:
+
+  - title: Behavioral ecology
+    labels:
+      - tag: MIT
+    img: "img/research/base.jpg"
+    url: behavioral_ecology
+
+  - title: Ecological memory
+    labels:
+      - tag: UNIPI
+    img: "img/research/base.jpg"
+    url: ecological_memory
+
+  - title: Regime shifts
+    labels:
+      - tag: UNIPI
+      - label: MIT
+    img: "img/research/base.jpg"
+    url: regime_shifts
+
+  - title: Extreme events
+    labels:
+      - tag: UNIPI
+    img: "img/research/base.jpg"
+    url: extreme_events
+
+  - title: Spatial patterns in ecology
+    labels:
+      - tag: UNIPI
+    img: "img/research/base.jpg"
+    url: spatial_patterns
+
+  - title: Artificial light at night
+    labels:
+      - tag: UNIPI
+    img: "img/research/base.jpg"
+    url: alan
+
+  - title: Light powered worm
+    labels:
+      - tag: MIT
+    img: "img/research/base.jpg"
+    url: light_powered_worm
+
+  - title: Kelp holobiont
+    labels:
+      - tag: MIT
+    img: "img/research/base.jpg"
+    url: kelp
+
+  - title: Biological invasions
+    labels:
+      - tag: MIT
+    img: "img/research/base.jpg"
+    url: biological_invasions
+
+
+
