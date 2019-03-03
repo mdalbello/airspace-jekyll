@@ -7,17 +7,17 @@
     <div class="bib-authors">{{ reference }} </div>
 
 
-    <div class="bib-details">{% if entry.booktitle %}{{ entry.booktitle }}, {%endif%} {% if entry.publisher %}{{ entry.publisher }}, {%endif%}{% if entry.journal %}{{ entry.journal }}, {% endif %} {% if entry.school %}{{ entry.school }}, {% endif %}{% if entry.volume %}Vol. {{ entry.volume }}, {%endif%}{% if entry.number %}no. {{ entry.number }}, {%endif%}{% if entry.pages %}pp. {{ entry.pages }}, {%endif%}{% if entry.month %}{{ entry.month | capitalize}}. {% endif %}{{ entry.year }}</div>
+    <div class="bib-details">{% if entry.booktitle %}{{ entry.booktitle }}, {%endif%} {% if entry.journal %}{{ entry.journal }}, {% endif %} {% if entry.school %}{{ entry.school }}, {% endif %}{% if entry.volume %}Vol. {{ entry.volume }}, {%endif%}{% if entry.number %}no. {{ entry.number }}, {%endif%}{% if entry.pages %}pp. {{ entry.pages }}, {%endif%}{% if entry.month %}{{ entry.month | capitalize}}. {% endif %}{{ entry.year }}</div>
 
-{% if entry.prize %}
-{% if entry.prize_link %}
-<a href="{{entry.prize_link}}" class="bib-prize btn btn-info"><i class="fas fa-award fa-fw"></i> {{ entry.prize }}</a>
-{% else %}
-<div class="bib-prize btn btn-info"><i class="fas fa-award fa-fw"></i> {{ entry.prize }}</div>
-{% endif %}
-{% endif %}
 
     <div class="bib-buttons">
+{% if entry.prize %}
+{% if entry.prize_link %}
+<a href="{{entry.prize_link}}" class="bib-prize btn btn-info btn-sm"><i class="far fa-newspaper fa-fw"></i> {{ entry.prize }}</a>
+{% else %}
+<div class="bib-prize btn btn-info btn-sm"><i class="far fa-newspaper fa-fw"></i> {{ entry.prize }}</div>
+{% endif %}
+{% endif %}
 	    {% if entry.abstract %}<div data-toggle="#abstract-{{entry.key}}" class="btn btn-info btn-sm abstract-btn"><i class="fa fa-fw fa-chevron-right" aria-hidden="true"></i> Abstract</div>{% endif %}
 	    {% if entry.bibtex %}<div data-toggle="#bibtex-{{entry.key}}" class="btn btn-info btn-sm bibtex-btn"><i class="fa fa-fw fa-book" aria-hidden="true"></i> Bibtex</div>{% endif %}
     {% if entry.url %}<a href="{{entry.url}}" class="btn btn-info btn-sm"><i class="fa fa-link fa-fw" aria-hidden="true"></i> Link</a>{% endif %}

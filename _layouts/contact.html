@@ -1,7 +1,15 @@
 ---
-layout: pages
+layout: page
 ---
 
+<div class="post">
+  <section id="intro">
+    <div class="container">
+      <div class="row">
+      <div class="col-md-10 col-md-offset-1">
+	{% unless page.header.title %}
+            <h1>{{ page.title }}</h1>
+        {% endunless %}
 
 <!-- contact form start -->
 <section id="contact-form">
@@ -46,3 +54,9 @@ layout: pages
 <!--     </div> -->
 <!--   </div> -->
 <!-- </section> -->
+        <!-- </div> -->
+	</div>
+      </div>
+    </div>
+  </section>
+</div>
