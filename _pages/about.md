@@ -1,10 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-layout: post
+layout: pages
 ---
 
-## Biography
-Cool
-
-ahah
+I come from...

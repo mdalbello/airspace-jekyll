@@ -10,45 +10,45 @@ topics:
   - title: Behavioral ecology
     labels:
       - tag: MIT
-    img: "img/research/base.jpg"
-    url: behavioral_ecology
+    img: "img/research/behavioral-ecology.jpg"
+    url: behavioral-ecology
 
   - title: Ecological memory
     labels:
       - tag: UNIPI
     img: "img/research/base.jpg"
-    url: ecological_memory
+    url: ecological-memory
 
   - title: Regime shifts
     labels:
       - tag: UNIPI
       - label: MIT
-    img: "img/research/base.jpg"
-    url: regime_shifts
+    img: "img/research/regime-shifts.jpg"
+    url: regime-shifts
 
   - title: Extreme events
     labels:
       - tag: UNIPI
-    img: "img/research/base.jpg"
-    url: extreme_events
+    img: "img/research/extreme-events.jpg"
+    url: extreme-events
 
   - title: Spatial patterns in ecology
     labels:
       - tag: UNIPI
     img: "img/research/base.jpg"
-    url: spatial_patterns
+    url: spatial-patterns
 
   - title: Artificial light at night
     labels:
       - tag: UNIPI
-    img: "img/research/base.jpg"
+    img: "img/research/alan.jpg"
     url: alan
 
   - title: Light powered worm
     labels:
       - tag: MIT
     img: "img/research/base.jpg"
-    url: light_powered_worm
+    url: light-powered-worm
 
   - title: Kelp holobiont
     labels:
@@ -60,7 +60,7 @@ topics:
     labels:
       - tag: MIT
     img: "img/research/base.jpg"
-    url: biological_invasions
+    url: biological-invasions
 
 
 
