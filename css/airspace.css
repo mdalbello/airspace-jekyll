@@ -38,6 +38,9 @@ h5,
 h6 {
   font-family: 'Roboto', sans-serif;
 }
+h1 {
+font-weight: 400;
+}
 h2 {
   font-size: 30px;
   font-weight: 400;
