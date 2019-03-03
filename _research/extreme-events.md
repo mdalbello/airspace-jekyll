@@ -1,3 +1,3 @@
 ---
-title: Extreme events
+title: Climate change and extreme events
 ---

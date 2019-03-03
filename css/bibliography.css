@@ -1,0 +1,74 @@
+/* Bibliography */
+.bibliography{
+	margin-left: 1em;  /* To compensate title indent */
+}
+.bib-title{
+font-weight: bold;  /* Make bib titles in bold */
+/* margin-left: -1em;  // Shift to the left */
+text-indent: -1em;
+margin-bottom: .25em;
+}
+.bibliography li {
+  list-style-type: none;  /* Remove bullet point */
+  margin-bottom: 2em;
+  margin-top: 2em;
+}
+.bib-authors {
+font-size: .9em;
+margin-bottom: .25em;
+}
+.bib-details{
+	font-style: italic;
+	font-size: .9em;
+}
+.bib-prize{
+	/* &:visited { */
+	/*         background-color: $highlight-color; */
+	/* } */
+	/* background-color: $highlight-color; */
+	font-style: italic;
+	font-weight: bold;
+	/* text-indent: -1.5em; [> Correct indentation for second lines <] */
+	text-align: left;
+	/* padding-left: 2.0em; */
+	padding-right: .5em;
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+.bib-buttons .btn-sm{
+	/* .btn--small{ */
+	/*     font-size: .6875em; */
+	/*     padding: .4em; */
+	/*     margin-right: .5em; */
+	/* } */
+	margin-right: .5em;
+	margin-top: .5em;
+}
+
+.bib-abstract {
+	display: none;  /* Start with hidden abstracts */
+	margin-top: 1.5em;
+}
+
+
+.bib-abstract blockquote{
+	padding: 0px .75em;
+}
+.bib-abstract blockquote p{
+			font-size: 0.7em;
+			text-align: justify;
+			/* .MathJax_CHTML{ */
+			/*         font-size: 120% !important; */
+			/* } */
+}
+
+.bib-bibtex {
+	display: none;  /* Start with hidden bibtex */
+		margin: 1em 1em 1em 0;
+	}
+
+
+.bib-bibtex div.highlighter-rouge .highlight{
+		font-size: 0.9em;
+}
+

@@ -4,21 +4,37 @@ layout: page
 
 
 <div class="post">
-  <!-- Wrapper Start -->
-  <section id="intro" style="border: 1px dotted #ddd;">
+  <section id="intro">
     <div class="container">
       <div class="row">
-        <div>
-          <div class="block">
+      <div class="col-md-8 col-md-offset-2">
+	{% unless page.header.title %}
             <h1>{{ page.title }}</h1>
-            <p>{{ content }}</p>
-          </div>
-        </div><!-- .col-md-7 close -->
+        {% endunless %}
+            {{ content }}
+        <!-- </div> -->
+<p class="center-text" style="margin-top: 50px; padding: 30px; border-top: 1px dotted #ddd;">
+  <a href="{{ site.baseurl }}/research">Back to research</a>
+</p>
+	</div>
       </div>
     </div>
   </section>
 </div>
 
-<p class="center-text" style="padding: 30px;">
-  <a href="{{ site.baseurl }}/research">Back to research</a>
-</p>
+<!-- <div class="post"> -->
+<!--   [> Wrapper Start <] -->
+<!--   <section id="intro" style="border: 1px dotted #ddd;"> -->
+<!--     <div class="container"> -->
+<!--       <div class="row"> -->
+<!--         <div> -->
+<!--           <div class="block"> -->
+<!--             <h1>{{ page.title }}</h1> -->
+<!--             {{ content }} -->
+<!--           </div> -->
+<!--         </div>[> .col-md-7 close <] -->
+<!--       </div> -->
+<!--     </div> -->
+<!--   </section> -->
+<!-- </div> -->
+

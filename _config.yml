@@ -30,6 +30,7 @@ logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -49,3 +50,30 @@ defaults:
       type: "research"
     values:
       layout: research_page
+
+# Scholar for Bibliography
+scholar:
+  style: _data/bibliography/ieee_only_author.csl  # Extract only author's name using IEEE format
+  locale: en
+
+  # sort_by: none
+  order: descending
+  sort_by: month
+  # group_by: type, year
+  # group_order: ascending, descending
+  # type_names: { inproceedings: 'Conference Proceedings' }
+  # type_order: [article, inproceedings, thesis]
+  # order: ascending
+  bibliography_list_tag: ul
+  # bibliography_item_tag: li
+  bibliography_group_tag: h2, h3
+
+  source: _data/bibliography
+  bibliography: bib.bib
+  # bibliography_template: "{{reference}}"
+  bibliography_template: bibliography_entry
+  parse_names: true
+  replace_strings: true
+  join_strings:    true
+  query: "@*"
+
