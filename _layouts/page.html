@@ -1,5 +1,23 @@
 ---
 layout: default
 ---
+
+{% if page.header %}
+<!-- Slider Start -->
+<section id="global-header" style=" background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('{{site.baseurl}}/{{page.header.image}}');">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+		<h1>{{page.header.title}}</h1>
+		<p>{{page.header.subtitle}}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% endif %}
+
 {{content}}
 

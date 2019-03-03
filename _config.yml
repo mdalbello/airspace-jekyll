@@ -48,4 +48,4 @@ defaults:
       path: ""
       type: "research"
     values:
-      layout: research
+      layout: research_page

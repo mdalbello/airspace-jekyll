@@ -1,6 +1,7 @@
 ---
-title: "Contact"
-subtitle: "Get in touch!"
+header:
+  title: Contact
+  subtitle: "Get in touch!"
 layout: contact
 permalink: /contact/
 ---
