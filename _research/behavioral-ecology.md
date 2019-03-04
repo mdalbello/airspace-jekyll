@@ -1,7 +1,7 @@
 ---
 title: Behavioral Ecology
 header:
-  image: "/img/research/behavioral-ecology.jpg"
+  image: "img/research/behavioral-ecology.jpg"
 ---
 
 Chemical signals regulate the behavior of all organisms, from bacteria to humans.
