@@ -11,5 +11,4 @@ photo: img/photo.jpg
 
 *I am a cool person.*
 
-I am a cool person.
-fgdcbgfx
+I am a marine ecologist trained in the field, now experiencing joys and sorrows of lab work. 
