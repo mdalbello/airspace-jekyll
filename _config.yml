@@ -25,8 +25,7 @@ google_scholar: "mQU_Tg8AAAAJ"
 # Google maps link from "share -> embed". Force dimensions 555px x 300 px
 google_maps: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2947.995914317711!2d-71.09403304850724!3d42.36392634274712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370ac2269542d%3A0x4fafcb5028f3a887!2s400+Technology+Square%2C+Cambridge%2C+MA+02139!5e0!3m2!1sen!2sus!4v1551570025106" width="350" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>'
 baseurl: ""
-cover: "/assets/cover.png"
-logo: "/assets/logo.png"
+google_tracking_id: UA-136426924-1
 
 # Build settings
 markdown: kramdown
