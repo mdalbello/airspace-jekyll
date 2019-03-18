@@ -2,8 +2,9 @@
 permalink: /publications/
 layout: pages
 header:
-  image: "img/slider-bg.jpg"
-title: Publications
+  image: "img/about.jpg"
+  title: "Publications"
+  subtitle: ""
 ---
 
 {% bibliography %}
