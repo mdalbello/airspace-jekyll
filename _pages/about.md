@@ -7,10 +7,15 @@ header:
   subtitle: ""
 ---
 
-I am a postdoctoral associate in the [Gore Lab](http://www.gorelab.org) at MIT. My first project was about the role of learning in the response to pheromones in the model organism *Caenorhabditis elegans*. Now, I am interested in the mechanisms underlying biodiversity in microbial communities.
+I am a community ecologist, currently working as a postdoctoral associate in [Jeff Gore's group](http://www.gorelab.org) at MIT. I am generally interested in the mechanisms underlying the diversity and the stability of natural communities in the face of environmental change, with a focus on microbes. 
 
-I obtained my Ph.D. at the Department of Marine Biology and Ecology, University of Pisa, in 2014. During my doctorate I worked under the supervision of Prof. benedetti-Cecchi and I investigated the effects of climate change on ecological memory of ecosystems and the occurrence of regime shifts. I used photosynthetic microbial biofilms developing on rocky shores as study system. I remained in the [Benedetti-Cecchi Lab](https://sites.google.com/site/lisandrobenedetticecchi/as) a postdoctoral researcher until 2016.
+As a postdoc, I am studying the determinants of bacterial diversity and, in particular, the effects of resource availability on the richness and structure of microbial communities. To do so, I perform laboratory experiments using natural bacterial assemblages isolated from soil. 
 
-I received a B.Sc. degree in Marine Environmental Science from University of Genova in 2008 and a M.Sc. degree in Marine Biology at the University of Pisa in 2010. Both my master and my bachelor theses focused on the effects of protection on coastal fish assemblages.
+During my PhD, working with [Lisandro Benedetti-Cecchi](https://sites.google.com/site/lisandrobenedetticecchi/as), I  investigated the impacts of extreme climatic events and the occurrence of regime shifts in rocky shore habitats, using microbial communities in the field as model systems. 
+
+
+
+I obtained my Ph.D. in Marine Ecology from the University of Pisa, under the  supervision of Prof. Lisandro Benedetti-Cecchi. I received a B.Sc. degree in Marine Environmental Science from University of Genova and a M.Sc. degree in Marine Biology at the University of Pisa. 
+
 
 

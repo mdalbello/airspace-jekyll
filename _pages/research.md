@@ -4,7 +4,7 @@ subtitle: "Cool stuff I do"
 permalink: /research/
 layout: research
 header:
-  image: "img/slider-bg.jpg"
+  image: "img/about.jpg"
   title: "Research"
-  subtitle: ""
+  subtitle: "Cool stuff I do"
 ---

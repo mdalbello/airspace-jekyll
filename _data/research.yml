@@ -1,66 +1,66 @@
 labels:
-  - name: "@MIT"
+  - name: "@ MIT"
     tag: MIT
-  - name: "@University of Pisa"
+  - name: "@ University of Pisa"
     tag: UNIPI
 
 
 topics:
 
-  - title: Behavioral ecology
+  - title: Unravelling the determinants of microbial community diversity
     labels:
       - tag: MIT
-    img: "img/research/behavioral-ecology.jpg"
-    url: behavioral-ecology
-
-  - title: Ecological memory
-    labels:
-      - tag: UNIPI
-    img: "img/research/base.jpg"
-    url: ecological-memory
-
-  - title: Regime shifts
-    labels:
-      - tag: UNIPI
-      - label: MIT
-    img: "img/research/regime-shifts.jpg"
-    url: regime-shifts
-
-  - title: Climate change and extreme events
-    labels:
-      - tag: UNIPI
-    img: "img/research/extreme-events.jpg"
-    url: extreme-events
-
-  - title: Spatial patterns in ecology
-    labels:
-      - tag: UNIPI
-    img: "img/research/base.jpg"
-    url: spatial-patterns
-
-  - title: Artificial light at night
-    labels:
-      - tag: UNIPI
-    img: "img/research/alan.jpg"
+    img: "img/research/Diversity.jpg"
     url: alan
 
-  - title: Light powered worm
-    labels:
-      - tag: MIT
-    img: "img/research/base.jpg"
-    url: light-powered-worm
+  # - title: Regime shifts
+  #   labels:
+  #     - tag: UNIPI
+  #     - label: MIT
+  #   img: "img/research/regime-shifts.jpg"
+  #   url: regime-shifts
 
-  - title: Kelp holobiont
+  - title: Assessing the response of microbial communities to drivers of global change
     labels:
-      - tag: MIT
-    img: "img/research/base.jpg"
-    url: kelp
+       - tag: UNIPI
+    img: "img/research/Memory-regimeshifts.jpg"
+    url: extreme-events
 
-  - title: Biological invasions
+  - title: Using microbes and worms to study optimal foraging
     labels:
       - tag: MIT
-    img: "img/research/base.jpg"
-    url: biological-invasions
+    img: "img/research/Foragingworms.jpg"
+    url: behavioral-ecology
+
+  # - title: Spatial patterns in ecology
+  #   labels:
+  #     - tag: UNIPI
+  #   img: "img/research/base.jpg"
+  #   url: spatial-patterns
+
+  # - title: Artificial light at night
+  #   labels:
+  #     - tag: UNIPI
+  #   img: "img/research/alan.jpg"
+  #   url: alan
+
+  # - title: Light powered worm
+  #   labels:
+  #     - tag: MIT
+  #   img: "img/research/base.jpg"
+  #   url: light-powered-worm
+
+  # - title: Kelp holobiont
+  #   labels:
+  #     - tag: MIT
+  #   img: "img/research/base.jpg"
+  #   url: kelp
+
+  # - title: Biological invasions
+  #   labels:
+  #     - tag: MIT
+  #   img: "img/research/base.jpg"
+  #   url: biological-invasions
 
 
 
