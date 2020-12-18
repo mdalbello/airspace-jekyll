@@ -15,7 +15,7 @@ During my PhD, working with [Lisandro Benedetti-Cecchi](https://sites.google.com
 
 
 
-I obtained my Ph.D. in Marine Ecology from the University of Pisa, under the  supervision of Prof. Lisandro Benedetti-Cecchi. I received a B.Sc. degree in Marine Environmental Science from University of Genova and a M.Sc. degree in Marine Biology at the University of Pisa. 
+I obtained my Ph.D. in Marine Ecology from the University of Pisa, under the supervision of Prof. Lisandro Benedetti-Cecchi. I received a B.Sc. degree in Marine Environmental Science from the University of Genova and a M.Sc. degree in Marine Biology from the University of Pisa. 
 
 
 
