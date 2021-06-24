@@ -7,15 +7,11 @@ header:
   subtitle: ""
 ---
 
-I am a community ecologist, currently working as a postdoctoral associate in [Jeff Gore's group](http://www.gorelab.org) at MIT. I am generally interested in the mechanisms underlying the diversity and the stability of natural communities in the face of environmental change, with a focus on microbes. 
+I was born in Angera, a small town in the North of Italy squeezed between the Alps and the Lake Maggiore. As a kid, my dream was to become a marine biologist, not because I was dreaming of swimming with dolphins but because I was in love with tiny colorful fish and nudibranchs. My passion for small creatures brought me where I am now, studying the diversity and stability of microbial communities in the face of environmental changes. 
 
-As a postdoc, I am studying the determinants of bacterial diversity and, in particular, the effects of resource availability on the richness and structure of microbial communities. To do so, I perform laboratory experiments using natural bacterial assemblages isolated from soil. 
+My scientific journey started at the University of Genova, where I obtained a B.Sc. degree in Marine Environmental Sciences, and continued at the University of Pisa, where I obtained a M.Sc. degree in Marine Biology and later a Ph.D. in Marine Ecology. During my PhD, I worked under the supervision of [Lisandro Benedetti-Cecchi](https://sites.google.com/site/lisandrobenedetticecchi/as), investingating the impacts of pulse perturbations and the occurrence of regime shifts in microbial and algal communities of rocky shore habitats.
 
-During my PhD, working with [Lisandro Benedetti-Cecchi](https://sites.google.com/site/lisandrobenedetticecchi/as), I  investigated the impacts of extreme climatic events and the occurrence of regime shifts in rocky shore habitats, using microbial communities in the field as model systems. 
-
-
-
-I obtained my Ph.D. in Marine Ecology from the University of Pisa, under the supervision of Prof. Lisandro Benedetti-Cecchi. I received a B.Sc. degree in Marine Environmental Science from the University of Genova and a M.Sc. degree in Marine Biology from the University of Pisa. 
+For my postdoc, I joined [Jeff Gore's group](http://www.gorelab.org) at MIT. Here I become initially interested in the *C. elegans* - * E.coli* model system to explore foraging behaviors in patchy environments. More recently, I have decided to come back to community ecology. I am currently investigating the mechanisms that underpin the coexistence of species within microbial communities and, in particular, how available resources shape community diversity.
 
 
 
